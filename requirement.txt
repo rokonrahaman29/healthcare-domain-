@@ -1,0 +1,14 @@
+streamlit
+google-generativeai
+requests
+pandas
+numpy
+Pillow
+python-dotenv
+folium
+streamlit-folium
+geocoder
+geopy
+SpeechRecognition
+gTTS
+googletrans==4.0.0-rc1
